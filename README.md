@@ -2,7 +2,7 @@
 
 <p align='center'>Software Developer with 1+ years of experience</p>
 
-![](https://raw.githubusercontent.com/argodeep/argodeep/master/cover-new.png)
+![](https://github.com/alenjohn05/alenjohn05/blob/main/cover-new.png)
 
 <p align='center'>
  <br> 🔭 I’m currently working on ReactJS & NodeJS.
