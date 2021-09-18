@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋, I am Alen John</h1>
 
-<p align='center'>Software Developer with 1+ years of experience</p>
+<!-- <p align='center'>Software Developer with 1+ years of experience</p> -->
 
 ![](https://github.com/alenjohn05/alenjohn05/blob/main/cover-new.png)
 
