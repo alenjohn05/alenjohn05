@@ -23,6 +23,7 @@
  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />    
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />    
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?logo=express-js&logoColor=white&style=for-the-badge" />
  <!-- <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" /> -->
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
@@ -31,19 +32,14 @@
 </p>
 
 
-<!-- <h2 align='center'>
+<h2 align='center'>
   Have exposure into
-</h2> -->
+</h2>
 
-<!-- <p align='center'>
-  PWA, Web APIs, Axios, JWT, FaceAPI Js, Tesseract Js,  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />,  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />, <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />, <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?logo=express-js&logoColor=white&style=for-the-badge" />, <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />, <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />, <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /> (Lambda, Rekognition, DynamoDB, S3, Cloudfront, API Gateway), <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" /> (Firebase, Firestore, Cloud Storage, Cloud Run)
-</p> -->
+<p align='center'>
+  PWA, Web APIs, Axios, JWT, FaceAPI Js, Node Microservices <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />,  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />, <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />, <img src="https://img.shields.io/badge/GraphQL%20-%23404d59.svg?logo=GraphQL&logoColor=white&style=for-the-badge" />, <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />, <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />,DynamoDB, API Gateway, Firebase, Firestore
+</p>
 
-<!-- <h2 align='center'>Checkout My Resume</h2>
-<details align="center"> 
- <summary>Download</summary>
- <a target="_blank" href="https://github.com/argodeep/argodeep/raw/master/Arghyadeep-resume.pdf">Click Here</a>
-</details> -->
 
 <h2 align='center'>
   Get in touch
