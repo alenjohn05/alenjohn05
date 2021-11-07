@@ -2,7 +2,7 @@
 
 <!-- <p align='center'>Software Developer with 1+ years of experience</p> -->
 
-![](https://github.com/alenjohn05/alenjohn05/blob/main/cover-new.png)
+![](https://res.cloudinary.com/dt9i30qec/image/upload/v1636253108/Readme%20Github/cover-new_pm3cvl.png)
 
 <p align='center'>
  <br> 🔭 I’m currently working on ReactJS & NodeJS.
