@@ -3,11 +3,11 @@
 [![Linkedin](https://img.shields.io/badge/-alenjohn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alenjohn-aj/)
 [![Gmail](https://img.shields.io/badge/-alenjohn-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:itsalenjohn@gmail.com)
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenjohn05&langs_count=10&theme=dark&layout=compact&include_all_commits=True" alt="AnhellO :: Top Langs" /></p>
-
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alenjohn05&show_icons=true&theme=dark&include_all_commits=True" alt="AnhellO :: Profile Stats"/></p> -->
-
+<a href="https://github.com/alenjohn05/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alenjohn05&layout=compact&langs_count=8&card_width=320" />
+</a>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alenjohn05&show_icons=true&theme=dark&include_all_commits=True" alt="AnhellO :: Profile Stats"/></p>
+ -->
 
 <!--
 **djokester/djokester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
